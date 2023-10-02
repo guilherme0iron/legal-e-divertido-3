@@ -1,14 +1,14 @@
 :root {
   --cinza: #aaa;
-  --vermelha: #e93d50;
-  --vermelha-escura: #af303f;
+  --roxo: #6300b4;
+  --roxo-escuro: #3a0070;
   --branca: #fff;
   --luz: rgb(229, 255, 0);
 }
 
 body {
   align-items: center;
-  background: linear-gradient(45deg, #fc5e5e 0%,#f50101 100%);
+  background: linear-gradient(45deg, #4e00a7 0%,#48008b 100%);
   display: flex;
   justify-content: center;
   flex-direction: column;
