@@ -16,7 +16,7 @@ const keySongs = [
     },
     {
         key: 4,
-        song: '41 anoos',
+        song: '4',
         down: false
     },
     {
